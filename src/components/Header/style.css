@@ -3,14 +3,14 @@
     position: relative;
     height: 60px;
     display: flex;
-    background: #1b5ff9;
+    background: #f91b1b;
     justify-content: space-between;
     box-sizing: border-box;
 }
 
 .logo{
     font-size: 20px;
-    color: #fff;
+    color: hsl(0, 4%, 11%);
     text-transform: capitalize;
     font-weight: bold;
     margin: 18px;
