@@ -58,7 +58,7 @@ export const signup = (user) => {
             console.log(error);
         })
 
-
+console.log(db)
     }
 
 
